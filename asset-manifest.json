@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/anual-report-build/static/css/main.62a301a0.css",
+    "main.js": "/anual-report-build/static/js/main.ff126ab1.js",
+    "static/media/img-placeholder.webp": "/anual-report-build/static/media/img-placeholder.0ccd74b290f94c63fd02.webp",
+    "static/media/video-placeholder.webp": "/anual-report-build/static/media/video-placeholder.8e86ef2b19f23c16e904.webp",
+    "static/media/quotes.PNG": "/anual-report-build/static/media/quotes.55b1bfc013c043f6e5cc.PNG",
+    "index.html": "/anual-report-build/index.html",
+    "main.62a301a0.css.map": "/anual-report-build/static/css/main.62a301a0.css.map",
+    "main.ff126ab1.js.map": "/anual-report-build/static/js/main.ff126ab1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62a301a0.css",
+    "static/js/main.ff126ab1.js"
+  ]
+}
