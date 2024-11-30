@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/anual-report-build/static/css/main.9145c2a0.css",
-    "main.js": "/anual-report-build/static/js/main.ec90835d.js",
-    "static/media/hero-image.png": "/anual-report-build/static/media/hero-image.28a7f3aecb2f25dc7ca2.png",
+    "main.css": "/anual-report-build/static/css/main.fd497f74.css",
+    "main.js": "/anual-report-build/static/js/main.c055fe7e.js",
+    "static/media/hero-image.webp": "/anual-report-build/static/media/hero-image.e502f432b66e744a1986.webp",
     "static/media/lci.webp": "/anual-report-build/static/media/lci.48190d9b6eeae5a86c6b.webp",
+    "static/media/finances-card-bg.png": "/anual-report-build/static/media/finances-card-bg.f7a1360bc7242e9022ba.png",
     "static/media/free-spech.webp": "/anual-report-build/static/media/free-spech.517c37b249a33600f9d1.webp",
     "static/media/feature-has-arrived.png": "/anual-report-build/static/media/feature-has-arrived.432b6ada1070fbb75b45.png",
     "static/media/the-human-heart.png": "/anual-report-build/static/media/the-human-heart.894fa342d14329640be6.png",
     "static/media/proving-the-power.png": "/anual-report-build/static/media/proving-the-power.49822b091a53b5189a88.png",
     "static/media/pepper-spray.webp": "/anual-report-build/static/media/pepper-spray.6a5652eeab655e1e3914.webp",
+    "static/media/annual-report.png": "/anual-report-build/static/media/annual-report.c32fb3eb03d436bd24e7.png",
     "static/media/why-slf-exists.png": "/anual-report-build/static/media/why-slf-exists.85a985813fee2f6cc98c.png",
+    "static/media/invest-in-liberty.png": "/anual-report-build/static/media/invest-in-liberty.bfa6e583d2f382340799.png",
     "static/media/TT-Hoves-Pro-Trial-DemiBold.ttf": "/anual-report-build/static/media/TT-Hoves-Pro-Trial-DemiBold.12eb01059c05f3435c27.ttf",
     "static/media/TT-Hoves-Pro-Trial-Regular.ttf": "/anual-report-build/static/media/TT-Hoves-Pro-Trial-Regular.3f6628559812517267d9.ttf",
     "static/media/globe-bg.png": "/anual-report-build/static/media/globe-bg.758879bc7610b0229c0e.png",
@@ -31,11 +34,11 @@
     "static/media/img-placeholder.webp": "/anual-report-build/static/media/img-placeholder.0ccd74b290f94c63fd02.webp",
     "static/media/copy-link.svg": "/anual-report-build/static/media/copy-link.500de973638c0fb3ade1534382564c61.svg",
     "index.html": "/anual-report-build/index.html",
-    "main.9145c2a0.css.map": "/anual-report-build/static/css/main.9145c2a0.css.map",
-    "main.ec90835d.js.map": "/anual-report-build/static/js/main.ec90835d.js.map"
+    "main.fd497f74.css.map": "/anual-report-build/static/css/main.fd497f74.css.map",
+    "main.c055fe7e.js.map": "/anual-report-build/static/js/main.c055fe7e.js.map"
   },
   "entrypoints": [
-    "static/css/main.9145c2a0.css",
-    "static/js/main.ec90835d.js"
+    "static/css/main.fd497f74.css",
+    "static/js/main.c055fe7e.js"
   ]
 }
