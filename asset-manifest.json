@@ -1,9 +1,18 @@
 {
   "files": {
-    "main.css": "/anual-report-build/static/css/main.fd497f74.css",
-    "main.js": "/anual-report-build/static/js/main.1e747546.js",
+    "main.css": "/anual-report-build/static/css/main.678a229c.css",
+    "main.js": "/anual-report-build/static/js/main.be614962.js",
+    "static/media/Liya-Palagashvili.png": "/anual-report-build/static/media/Liya-Palagashvili.86bc7d5aac15e74d3a7a.png",
+    "static/media/Katherine-Mangu-Ward.png": "/anual-report-build/static/media/Katherine-Mangu-Ward.dd2a6f6f3e6484910547.png",
+    "static/media/Dan-Grossman.png": "/anual-report-build/static/media/Dan-Grossman.f2ea2036b8a171726f69.png",
+    "static/media/Wayne-Olson.png": "/anual-report-build/static/media/Wayne-Olson.06df7e006cf2f736723a.png",
+    "static/media/Sam-Eckman.png": "/anual-report-build/static/media/Sam-Eckman.a82fe96c5a9639976376.png",
     "static/media/hero-image.webp": "/anual-report-build/static/media/hero-image.e502f432b66e744a1986.webp",
+    "static/media/Sloane-Frost.png": "/anual-report-build/static/media/Sloane-Frost.bb31f3a3586be38a20ac.png",
+    "static/media/Rick-Rule.png": "/anual-report-build/static/media/Rick-Rule.8f298af4b48bb694fabc.png",
+    "static/media/Gabriel-Calzada.png": "/anual-report-build/static/media/Gabriel-Calzada.bd2e4dc6687ddd4af696.png",
     "static/media/lci.webp": "/anual-report-build/static/media/lci.48190d9b6eeae5a86c6b.webp",
+    "static/media/John-Mackey.png": "/anual-report-build/static/media/John-Mackey.020ef6eb486cf73c1ede.png",
     "static/media/finances-card-bg.png": "/anual-report-build/static/media/finances-card-bg.f7a1360bc7242e9022ba.png",
     "static/media/free-spech.webp": "/anual-report-build/static/media/free-spech.517c37b249a33600f9d1.webp",
     "static/media/feature-has-arrived.png": "/anual-report-build/static/media/feature-has-arrived.432b6ada1070fbb75b45.png",
@@ -17,9 +26,10 @@
     "static/media/TT-Hoves-Pro-Trial-Regular.ttf": "/anual-report-build/static/media/TT-Hoves-Pro-Trial-Regular.3f6628559812517267d9.ttf",
     "static/media/globe-bg.png": "/anual-report-build/static/media/globe-bg.758879bc7610b0229c0e.png",
     "static/media/dr-wolf.png": "/anual-report-build/static/media/dr-wolf.f5d0c5f0d355bb19c8bc.png",
+    "static/media/heading-bg.png": "/anual-report-build/static/media/heading-bg.4c0055b7ee602810cb7f.png",
+    "static/media/footer-1.png": "/anual-report-build/static/media/footer-1.09caea02e06be3f355b1.png",
     "static/media/video-thumb-2.png": "/anual-report-build/static/media/video-thumb-2.a1766d03061e280a2eb5.png",
     "static/media/2024-stamp.png": "/anual-report-build/static/media/2024-stamp.103e227a9bdb95e0e18b.png",
-    "static/media/dan.png": "/anual-report-build/static/media/dan.418db1ba6be048020a34.png",
     "static/media/video-thumb-3.png": "/anual-report-build/static/media/video-thumb-3.196f02301d8a556d47b5.png",
     "static/media/video-thumb-1.png": "/anual-report-build/static/media/video-thumb-1.9ce0975f8887c924d5ca.png",
     "static/media/total-reach.png": "/anual-report-build/static/media/total-reach.5e493edcb6857789eeff.png",
@@ -31,14 +41,18 @@
     "static/media/gerreth.png": "/anual-report-build/static/media/gerreth.be6cabd18209e6c59d01.png",
     "static/media/video-thumb-5.png": "/anual-report-build/static/media/video-thumb-5.e7045f12ab6c16192945.png",
     "static/media/graphic.png": "/anual-report-build/static/media/graphic.bad0f6569680d8307cb7.png",
+    "static/media/SFL-LOGO-WHITE.svg": "/anual-report-build/static/media/SFL-LOGO-WHITE.fb63f639c6450120610182ed4097b2d8.svg",
+    "static/media/footer-4.webp": "/anual-report-build/static/media/footer-4.b430e1f988b1cddf4e64.webp",
     "static/media/img-placeholder.webp": "/anual-report-build/static/media/img-placeholder.0ccd74b290f94c63fd02.webp",
+    "static/media/footer-2.webp": "/anual-report-build/static/media/footer-2.3c87c14f9557b6a1b827.webp",
     "static/media/copy-link.svg": "/anual-report-build/static/media/copy-link.500de973638c0fb3ade1534382564c61.svg",
+    "static/media/footer-3.webp": "/anual-report-build/static/media/footer-3.4381ac0da63a04056147.webp",
     "index.html": "/anual-report-build/index.html",
-    "main.fd497f74.css.map": "/anual-report-build/static/css/main.fd497f74.css.map",
-    "main.1e747546.js.map": "/anual-report-build/static/js/main.1e747546.js.map"
+    "main.678a229c.css.map": "/anual-report-build/static/css/main.678a229c.css.map",
+    "main.be614962.js.map": "/anual-report-build/static/js/main.be614962.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd497f74.css",
-    "static/js/main.1e747546.js"
+    "static/css/main.678a229c.css",
+    "static/js/main.be614962.js"
   ]
 }
