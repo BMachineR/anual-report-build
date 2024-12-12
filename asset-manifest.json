@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/anual-report-build/static/css/main.fccfff9b.css",
-    "main.js": "/anual-report-build/static/js/main.b0fbb572.js",
-    "static/media/lci.webp": "/anual-report-build/static/media/lci.b976bbb1de1a7a64cb2b.webp",
-    "static/media/hero-image.webp": "/anual-report-build/static/media/hero-image.8f4a819f1d4f11a6b161.webp",
+    "main.css": "/anual-report-build/static/css/main.52fc6910.css",
+    "main.js": "/anual-report-build/static/js/main.82e14b13.js",
     "static/media/Liya-Palagashvili.png": "/anual-report-build/static/media/Liya-Palagashvili.e103aa574bbfeba99e10.png",
-    "static/media/free-spech.webp": "/anual-report-build/static/media/free-spech.68f035a5208503c9c846.webp",
     "static/media/Katherine-Mangu-Ward.png": "/anual-report-build/static/media/Katherine-Mangu-Ward.5a6ca9b9a37064abf590.png",
-    "static/media/pepper-spray.webp": "/anual-report-build/static/media/pepper-spray.6a5652eeab655e1e3914.webp",
+    "static/media/2.webp": "/anual-report-build/static/media/2.6927f2e789293d8b562f.webp",
     "static/media/Dan-Grossman.png": "/anual-report-build/static/media/Dan-Grossman.c43a1479ce947f3785e4.png",
+    "static/media/hero-image.webp": "/anual-report-build/static/media/hero-image.abe5322ec415101c6611.webp",
     "static/media/Gabriel-Calzada.png": "/anual-report-build/static/media/Gabriel-Calzada.5f43473cf6b6faf3cf6f.png",
     "static/media/Sloane-Frost.png": "/anual-report-build/static/media/Sloane-Frost.ce6a49e6a1650c4b62c9.png",
     "static/media/annual-report.png": "/anual-report-build/static/media/annual-report.c32fb3eb03d436bd24e7.png",
     "static/media/Rick-Rule.png": "/anual-report-build/static/media/Rick-Rule.dbf6318d23aee995990a.png",
     "static/media/Sam-Eckman.png": "/anual-report-build/static/media/Sam-Eckman.7f04625e23cf91061fd4.png",
     "static/media/Wayne-Olson.png": "/anual-report-build/static/media/Wayne-Olson.5a174e24439fcc9c5ade.png",
+    "static/media/1.webp": "/anual-report-build/static/media/1.6f039789b7f1d5ef6ad9.webp",
     "static/media/finances-card-bg.png": "/anual-report-build/static/media/finances-card-bg.6c67eba72d91325738fb.png",
     "static/media/John-Mackey.png": "/anual-report-build/static/media/John-Mackey.b022c213080366cbd17e.png",
     "static/media/why-slf-exists.png": "/anual-report-build/static/media/why-slf-exists.85a985813fee2f6cc98c.png",
@@ -24,6 +23,7 @@
     "static/media/globe-bg.png": "/anual-report-build/static/media/globe-bg.758879bc7610b0229c0e.png",
     "static/media/dr-wolf.png": "/anual-report-build/static/media/dr-wolf.f5d0c5f0d355bb19c8bc.png",
     "static/media/heading-bg.png": "/anual-report-build/static/media/heading-bg.4c0055b7ee602810cb7f.png",
+    "static/media/3.webp": "/anual-report-build/static/media/3.a4456b075c92f16f8b1c.webp",
     "static/media/the-human-heart.png": "/anual-report-build/static/media/the-human-heart.5dda797ec89c0d544e0a.png",
     "static/media/proving-the-power.png": "/anual-report-build/static/media/proving-the-power.035a566127a02b90feb2.png",
     "static/media/feature-has-arrived.png": "/anual-report-build/static/media/feature-has-arrived.b9ee4d303e4dd7e26919.png",
@@ -68,7 +68,6 @@
     "static/media/footer-4.webp": "/anual-report-build/static/media/footer-4.b430e1f988b1cddf4e64.webp",
     "static/media/5_ Infobae Logo.svg": "/anual-report-build/static/media/5_ Infobae Logo.fae87217665c5000dd3652cbc957b583.svg",
     "static/media/13_TradingView.svg": "/anual-report-build/static/media/13_TradingView.7d2ba6928734ef083ba3400e20a6e10d.svg",
-    "static/media/img-placeholder.webp": "/anual-report-build/static/media/img-placeholder.0ccd74b290f94c63fd02.webp",
     "static/media/2_Fox_News_Channel_logo.svg": "/anual-report-build/static/media/2_Fox_News_Channel_logo.29cb66897e732e9a6aa0fec823b3e790.svg",
     "static/media/19.svg": "/anual-report-build/static/media/19.cf9a0b957fe0a3437d856cfa3a139f7a.svg",
     "static/media/20.svg": "/anual-report-build/static/media/20.9ed61398b476935dc3446e5cb08432f6.svg",
@@ -82,11 +81,11 @@
     "static/media/3_AOL.com_idv8sM3GaO_1.svg": "/anual-report-build/static/media/3_AOL.com_idv8sM3GaO_1.fbda5fe399149da4ec63a1eb851aebf8.svg",
     "static/media/footer-3.webp": "/anual-report-build/static/media/footer-3.4381ac0da63a04056147.webp",
     "index.html": "/anual-report-build/index.html",
-    "main.fccfff9b.css.map": "/anual-report-build/static/css/main.fccfff9b.css.map",
-    "main.b0fbb572.js.map": "/anual-report-build/static/js/main.b0fbb572.js.map"
+    "main.52fc6910.css.map": "/anual-report-build/static/css/main.52fc6910.css.map",
+    "main.82e14b13.js.map": "/anual-report-build/static/js/main.82e14b13.js.map"
   },
   "entrypoints": [
-    "static/css/main.fccfff9b.css",
-    "static/js/main.b0fbb572.js"
+    "static/css/main.52fc6910.css",
+    "static/js/main.82e14b13.js"
   ]
 }
