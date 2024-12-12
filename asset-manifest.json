@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/anual-report-build/static/css/main.52fc6910.css",
-    "main.js": "/anual-report-build/static/js/main.82e14b13.js",
+    "main.css": "/anual-report-build/static/css/main.79351c08.css",
+    "main.js": "/anual-report-build/static/js/main.cf7d9d20.js",
     "static/media/Liya-Palagashvili.png": "/anual-report-build/static/media/Liya-Palagashvili.e103aa574bbfeba99e10.png",
     "static/media/Katherine-Mangu-Ward.png": "/anual-report-build/static/media/Katherine-Mangu-Ward.5a6ca9b9a37064abf590.png",
     "static/media/2.webp": "/anual-report-build/static/media/2.6927f2e789293d8b562f.webp",
@@ -81,11 +81,11 @@
     "static/media/3_AOL.com_idv8sM3GaO_1.svg": "/anual-report-build/static/media/3_AOL.com_idv8sM3GaO_1.fbda5fe399149da4ec63a1eb851aebf8.svg",
     "static/media/footer-3.webp": "/anual-report-build/static/media/footer-3.4381ac0da63a04056147.webp",
     "index.html": "/anual-report-build/index.html",
-    "main.52fc6910.css.map": "/anual-report-build/static/css/main.52fc6910.css.map",
-    "main.82e14b13.js.map": "/anual-report-build/static/js/main.82e14b13.js.map"
+    "main.79351c08.css.map": "/anual-report-build/static/css/main.79351c08.css.map",
+    "main.cf7d9d20.js.map": "/anual-report-build/static/js/main.cf7d9d20.js.map"
   },
   "entrypoints": [
-    "static/css/main.52fc6910.css",
-    "static/js/main.82e14b13.js"
+    "static/css/main.79351c08.css",
+    "static/js/main.cf7d9d20.js"
   ]
 }
